@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Star History">
 <title>Star History for pdone/lx-music-source</title>
-<desc>从 2026-09-17 到 2026-09-26，star 数从 8863 增长到 9206</desc>
+<desc>从 2026-09-17 到 2026-09-27，star 数从 8863 增长到 9243</desc>
 <style>
   .bg { fill: #ffffff; }
   .grid { stroke: #e5e7eb; stroke-width: 1; }
@@ -25,35 +25,36 @@
 </style>
 <rect class="bg" width="1200" height="320"/>
 <text class="title" x="64" y="22">pdone/lx-music-source · Star History</text>
-<text class="subtitle" x="1168" y="22" text-anchor="end">9206 ★</text>
+<text class="subtitle" x="1168" y="22" text-anchor="end">9243 ★</text>
 <line class="grid" x1="64" y1="272.00" x2="1168" y2="272.00"/>
 <line class="grid" x1="64" y1="213.00" x2="1168" y2="213.00"/>
 <line class="grid" x1="64" y1="154.00" x2="1168" y2="154.00"/>
 <line class="grid" x1="64" y1="95.00" x2="1168" y2="95.00"/>
 <line class="grid" x1="64" y1="36.00" x2="1168" y2="36.00"/>
 <text class="tlabel" x="54" y="276.00" text-anchor="end">0</text>
-<text class="tlabel" x="54" y="217.00" text-anchor="end">2425</text>
-<text class="tlabel" x="54" y="158.00" text-anchor="end">4850</text>
-<text class="tlabel" x="54" y="99.00" text-anchor="end">7275</text>
-<text class="tlabel" x="54" y="40.00" text-anchor="end">9700</text>
+<text class="tlabel" x="54" y="217.00" text-anchor="end">2450</text>
+<text class="tlabel" x="54" y="158.00" text-anchor="end">4900</text>
+<text class="tlabel" x="54" y="99.00" text-anchor="end">7350</text>
+<text class="tlabel" x="54" y="40.00" text-anchor="end">9800</text>
 <line class="axis" x1="64" y1="272" x2="1168" y2="272"/>
-<path class="area" d="M 64.00 272.00 L 64.00 56.36 L 186.67 55.78 L 309.33 54.56 L 432.00 53.64 L 554.67 52.67 L 677.33 52.16 L 800.00 51.11 L 922.67 49.97 L 1045.33 48.82 L 1168.00 48.02 L 1168.00 272.00 Z"/>
-<path class="line" d="M 64.00 56.36 L 186.67 55.78 L 309.33 54.56 L 432.00 53.64 L 554.67 52.67 L 677.33 52.16 L 800.00 51.11 L 922.67 49.97 L 1045.33 48.82 L 1168.00 48.02"/>
-<circle class="dot" cx="64.00" cy="56.36" r="2.5"/>
-<circle class="dot" cx="186.67" cy="55.78" r="2.5"/>
-<circle class="dot" cx="309.33" cy="54.56" r="2.5"/>
-<circle class="dot" cx="432.00" cy="53.64" r="2.5"/>
-<circle class="dot" cx="554.67" cy="52.67" r="2.5"/>
-<circle class="dot" cx="677.33" cy="52.16" r="2.5"/>
-<circle class="dot" cx="800.00" cy="51.11" r="2.5"/>
-<circle class="dot" cx="922.67" cy="49.97" r="2.5"/>
-<circle class="dot" cx="1045.33" cy="48.82" r="2.5"/>
-<circle class="dot" cx="1168.00" cy="48.02" r="2.5"/>
+<path class="area" d="M 64.00 272.00 L 64.00 58.56 L 174.40 57.99 L 284.80 56.78 L 395.20 55.87 L 505.60 54.90 L 616.00 54.40 L 726.40 53.36 L 836.80 52.23 L 947.20 51.10 L 1057.60 50.30 L 1168.00 49.41 L 1168.00 272.00 Z"/>
+<path class="line" d="M 64.00 58.56 L 174.40 57.99 L 284.80 56.78 L 395.20 55.87 L 505.60 54.90 L 616.00 54.40 L 726.40 53.36 L 836.80 52.23 L 947.20 51.10 L 1057.60 50.30 L 1168.00 49.41"/>
+<circle class="dot" cx="64.00" cy="58.56" r="2.5"/>
+<circle class="dot" cx="174.40" cy="57.99" r="2.5"/>
+<circle class="dot" cx="284.80" cy="56.78" r="2.5"/>
+<circle class="dot" cx="395.20" cy="55.87" r="2.5"/>
+<circle class="dot" cx="505.60" cy="54.90" r="2.5"/>
+<circle class="dot" cx="616.00" cy="54.40" r="2.5"/>
+<circle class="dot" cx="726.40" cy="53.36" r="2.5"/>
+<circle class="dot" cx="836.80" cy="52.23" r="2.5"/>
+<circle class="dot" cx="947.20" cy="51.10" r="2.5"/>
+<circle class="dot" cx="1057.60" cy="50.30" r="2.5"/>
+<circle class="dot" cx="1168.00" cy="49.41" r="2.5"/>
 <text class="tlabel" x="64.00" y="294" text-anchor="middle">2026-09-17</text>
-<text class="tlabel" x="309.33" y="294" text-anchor="middle">09-19</text>
-<text class="tlabel" x="432.00" y="294" text-anchor="middle">09-20</text>
-<text class="tlabel" x="677.33" y="294" text-anchor="middle">09-22</text>
-<text class="tlabel" x="800.00" y="294" text-anchor="middle">09-23</text>
-<text class="tlabel" x="1045.33" y="294" text-anchor="middle">09-25</text>
-<text class="tlabel" x="1168.00" y="294" text-anchor="middle">2026-09-26</text>
+<text class="tlabel" x="284.80" y="294" text-anchor="middle">09-19</text>
+<text class="tlabel" x="395.20" y="294" text-anchor="middle">09-20</text>
+<text class="tlabel" x="616.00" y="294" text-anchor="middle">09-22</text>
+<text class="tlabel" x="836.80" y="294" text-anchor="middle">09-24</text>
+<text class="tlabel" x="947.20" y="294" text-anchor="middle">09-25</text>
+<text class="tlabel" x="1168.00" y="294" text-anchor="middle">2026-09-27</text>
 </svg>
